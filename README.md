@@ -61,7 +61,11 @@ httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 ```
 ## OUTPUT:
-![OUTPUT](./client.png)
-![OUTPUT](./server.png)
+### Client Output:
+![Screenshot_20230330_105608](https://user-images.githubusercontent.com/127933352/228745551-e7d6bbb4-02c3-4628-8e19-a49112cf20ff.png)
+### Server Output:
+![Screenshot_20230330_105546](https://user-images.githubusercontent.com/127933352/228745647-72a544c0-63b6-4017-a250-987a3d2ed7a4.png)
+
+
 ## RESULT
 The program is executed succesfully
